@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My ITI\\Visual C#\\labs\\Cafe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{426080A8-178F-49AA-89D5-5615785C63EA}|Cafe\\Cafe.csproj|d:\\my iti\\visual c#\\labs\\cafe\\cafe\\models\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426080A8-178F-49AA-89D5-5615785C63EA}|Cafe\\Cafe.csproj|solutionrelative:cafe\\models\\drink.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426080A8-178F-49AA-89D5-5615785C63EA}|Cafe\\Cafe.csproj|d:\\my iti\\visual c#\\labs\\cafe\\cafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426080A8-178F-49AA-89D5-5615785C63EA}|Cafe\\Cafe.csproj|solutionrelative:cafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426080A8-178F-49AA-89D5-5615785C63EA}|Cafe\\Cafe.csproj|D:\\My ITI\\Visual C#\\labs\\Cafe\\cafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{426080A8-178F-49AA-89D5-5615785C63EA}|Cafe\\Cafe.csproj|solutionrelative:cafe\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426080A8-178F-49AA-89D5-5615785C63EA}|Cafe\\Cafe.csproj|d:\\my iti\\visual c#\\labs\\cafe\\cafe\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426080A8-178F-49AA-89D5-5615785C63EA}|Cafe\\Cafe.csproj|solutionrelative:cafe\\models\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426080A8-178F-49AA-89D5-5615785C63EA}|Cafe\\Cafe.csproj|d:\\my iti\\visual c#\\labs\\cafe\\cafe\\migrations\\20250610023451_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426080A8-178F-49AA-89D5-5615785C63EA}|Cafe\\Cafe.csproj|solutionrelative:cafe\\migrations\\20250610023451_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426080A8-178F-49AA-89D5-5615785C63EA}|Cafe\\Cafe.csproj|d:\\my iti\\visual c#\\labs\\cafe\\cafe\\context\\cafecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426080A8-178F-49AA-89D5-5615785C63EA}|Cafe\\Cafe.csproj|solutionrelative:cafe\\context\\cafecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426080A8-178F-49AA-89D5-5615785C63EA}|Cafe\\Cafe.csproj|d:\\my iti\\visual c#\\labs\\cafe\\cafe\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426080A8-178F-49AA-89D5-5615785C63EA}|Cafe\\Cafe.csproj|solutionrelative:cafe\\models\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426080A8-178F-49AA-89D5-5615785C63EA}|Cafe\\Cafe.csproj|d:\\my iti\\visual c#\\labs\\cafe\\cafe\\models\\dessert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426080A8-178F-49AA-89D5-5615785C63EA}|Cafe\\Cafe.csproj|solutionrelative:cafe\\models\\dessert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\My ITI\\Visual C#\\labs\\Cafe\\Cafe\\Form1.cs",
+              "RelativeDocumentMoniker": "Cafe\\Form1.cs",
+              "ToolTip": "D:\\My ITI\\Visual C#\\labs\\Cafe\\Cafe\\Form1.cs",
+              "RelativeToolTip": "Cafe\\Form1.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAvwI0AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:38:52.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CafeContext.cs",
+              "DocumentMoniker": "D:\\My ITI\\Visual C#\\labs\\Cafe\\Cafe\\context\\CafeContext.cs",
+              "RelativeDocumentMoniker": "Cafe\\context\\CafeContext.cs",
+              "ToolTip": "D:\\My ITI\\Visual C#\\labs\\Cafe\\Cafe\\context\\CafeContext.cs",
+              "RelativeToolTip": "Cafe\\context\\CafeContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:20:14.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Food.cs",
+              "DocumentMoniker": "D:\\My ITI\\Visual C#\\labs\\Cafe\\Cafe\\models\\Food.cs",
+              "RelativeDocumentMoniker": "Cafe\\models\\Food.cs",
+              "ToolTip": "D:\\My ITI\\Visual C#\\labs\\Cafe\\Cafe\\models\\Food.cs",
+              "RelativeToolTip": "Cafe\\models\\Food.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwBUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:06:28.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dessert.cs",
+              "DocumentMoniker": "D:\\My ITI\\Visual C#\\labs\\Cafe\\Cafe\\models\\Dessert.cs",
+              "RelativeDocumentMoniker": "Cafe\\models\\Dessert.cs",
+              "ToolTip": "D:\\My ITI\\Visual C#\\labs\\Cafe\\Cafe\\models\\Dessert.cs",
+              "RelativeToolTip": "Cafe\\models\\Dessert.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:05:50.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Drink.cs",
+              "DocumentMoniker": "D:\\My ITI\\Visual C#\\labs\\Cafe\\Cafe\\models\\Drink.cs",
+              "RelativeDocumentMoniker": "Cafe\\models\\Drink.cs",
+              "ToolTip": "D:\\My ITI\\Visual C#\\labs\\Cafe\\Cafe\\models\\Drink.cs",
+              "RelativeToolTip": "Cafe\\models\\Drink.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:05:18.451Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\My ITI\\Visual C#\\labs\\Cafe\\Cafe\\Form1.cs",
+              "RelativeDocumentMoniker": "Cafe\\Form1.cs",
+              "ToolTip": "D:\\My ITI\\Visual C#\\labs\\Cafe\\Cafe\\Form1.cs [Design]",
+              "RelativeToolTip": "Cafe\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:02:57.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\My ITI\\Visual C#\\labs\\Cafe\\Cafe\\models\\Item.cs",
+              "RelativeDocumentMoniker": "Cafe\\models\\Item.cs",
+              "ToolTip": "D:\\My ITI\\Visual C#\\labs\\Cafe\\Cafe\\models\\Item.cs",
+              "RelativeToolTip": "Cafe\\models\\Item.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswA0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:07:25.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250610023451_InitialCreate.cs",
+              "DocumentMoniker": "D:\\My ITI\\Visual C#\\labs\\Cafe\\Cafe\\Migrations\\20250610023451_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Cafe\\Migrations\\20250610023451_InitialCreate.cs",
+              "ToolTip": "D:\\My ITI\\Visual C#\\labs\\Cafe\\Cafe\\Migrations\\20250610023451_InitialCreate.cs",
+              "RelativeToolTip": "Cafe\\Migrations\\20250610023451_InitialCreate.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T02:34:52.27Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
